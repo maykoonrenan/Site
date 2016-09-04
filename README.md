@@ -1,3 +1,3 @@
 # Site
-Site de Teste
+Sistemas Distribuídos
 Aprendendo a usar o Git/Github
